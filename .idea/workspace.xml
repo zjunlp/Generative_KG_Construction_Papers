@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1611cdba-d77e-4eef-ace4-00ba0f0afb7e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="3c18eaf1-4058-4e76-9b96-c513fb5bf2b6" />
+  <component name="ProjectId" id="29KEMJZJXiPEyaoL5weYtXCYfIj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1611cdba-d77e-4eef-ace4-00ba0f0afb7e" name="Default Changelist" comment="" />
+      <created>1652853329866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652853329866</updated>
+      <workItem from="1652853331661" duration="610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="233" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1652853607641">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state x="555" y="233" key="#com.intellij.fileTypes.FileTypeChooser/65.1080.1215.720/78.0.1458.864@78.0.1458.864" timestamp="1652853607641" />
+  </component>
+</project>
