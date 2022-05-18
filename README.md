@@ -21,13 +21,29 @@
 ![Don’t Parse, Generate! A Sequence to Sequence Architecture for Task-Oriented Semantic Parsing](figure/Don’t%20Parse,%20Generate!%20A%20Sequence%20to%20Sequence%20Architecture%20for%20Task-Oriented%20Semantic%20Parsing.png)
 
 
-
-
-
-
 ### Generating Answers
 
+- [Event Extraction by Answering (Almost) Natural Questions](https://aclanthology.org/2020.emnlp-main.49.pdf)
+![Event Extraction by Answering (Almost) Natural Questions](figure/Event%20Extraction%20by%20Answering%20(Almost)%20Natural%20Questions.png)
+
+- [Event Extraction as Machine Reading Comprehension](https://aclanthology.org/2020.emnlp-main.128.pdf)
+![Event Extraction as Machine Reading Comprehension](figure/Event%20Extraction%20as%20Machine%20Reading%20Comprehension.png)
+
+
+
+
 ### Filling Templates
+
+- [Document-Level Event Argument Extraction by Conditional Generation](https://aclanthology.org/2021.naacl-main.69.pdf)
+![Document-Level Event Argument Extraction by Conditional Generation](figure/Document-Level%20Event%20Argument%20Extraction%20by%20Conditional%20Generation.png)
+
+- [Template Filling with Generative Transformers](https://aclanthology.org/2021.naacl-main.70.pdf)
+
+
+
+
+
+
 
 
 ### Structurelinearized Texts
