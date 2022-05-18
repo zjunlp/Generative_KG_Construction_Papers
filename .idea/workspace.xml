@@ -20,6 +20,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -29,7 +30,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652853329866</updated>
-      <workItem from="1652853331661" duration="8700000" />
+      <workItem from="1652853331661" duration="10912000" />
     </task>
     <servers />
   </component>
@@ -41,5 +42,9 @@
       <screen x="78" y="0" width="1458" height="864" />
     </state>
     <state x="555" y="233" key="#com.intellij.fileTypes.FileTypeChooser/65.1080.1215.720/78.0.1458.864@78.0.1458.864" timestamp="1652853607641" />
+    <state x="308" y="77" key="SettingsEditor" timestamp="1652881720496">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state x="308" y="77" key="SettingsEditor/65.1080.1215.720/78.0.1458.864@78.0.1458.864" timestamp="1652881720496" />
   </component>
 </project>

@@ -1,11 +1,21 @@
 # GenKBP_Papers
 
+
 ### Label-augmented Text
 - [Structured Prediction as Translation between Augmented Natural Languages](https://openreview.net/pdf?id=US-TP-xnXI) 
 ![Structured Prediction as Translation between Augmented Natural Languages](figure/Structured%20Prediction%20as%20Translation%20between%20Augmented%20Natural%20Languages.png)
 
 - [Augmented Natural Language for Generative Sequence Labeling](https://aclanthology.org/2020.emnlp-main.27.pdf)
 ![Augmented Natural Language for Generative Sequence Labeling](figure/Augmented%20Natural%20Language%20for%20Generative%20Sequence%20Labeling.png)
+
+
+### Copy Mechanism
+
+
+
+
+
+
 
 ### Generating Word Indices
 
@@ -31,7 +41,6 @@
 
 
 
-
 ### Filling Templates
 
 - [Document-Level Event Argument Extraction by Conditional Generation](https://aclanthology.org/2021.naacl-main.69.pdf)
@@ -43,6 +52,12 @@
 
 ### Structurelinearized Texts
 
+- [Contrastive Information Extraction With Generative Transformer](https://ieeexplore.ieee.org/document/9537684)
+- [Contrastive Triple Extraction with Generative Transformer](https://ojs.aaai.org/index.php/AAAI/article/view/17677)
+![Contrastive Information Extraction With Generative Transformer](figure/Contrastive%20Information%20Extraction%20With.png)
+
+
+
 - [HySPA: Hybrid Span Generation for Scalable Text-to-Graph Extraction](https://aclanthology.org/2021.findings-acl.356.pdf)
 ![HySPA: Hybrid Span Generation for Scalable Text-to-Graph Extraction](figure/HySPA%20Hybrid%20Span%20Generation%20for%20Scalable%20Text-to-Graph%20Extraction.png)
 
@@ -52,10 +67,13 @@
 
 ### Non-autogressive
 
-
+- [Joint Entity and Relation Extraction with Set Prediction Networks](http://arxiv.org/abs/2011.01675)
+![Joint Entity and Relation Extraction with Set Prediction Networks](figure/Joint%20Entity%20and%20Relation%20Extraction%20with%20Set%20Prediction%20Networks.png)
 
 
 ### Combinations
+
+
 
 
 
