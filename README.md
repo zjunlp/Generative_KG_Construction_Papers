@@ -38,15 +38,14 @@
 ![Document-Level Event Argument Extraction by Conditional Generation](figure/Document-Level%20Event%20Argument%20Extraction%20by%20Conditional%20Generation.png)
 
 - [Template Filling with Generative Transformers](https://aclanthology.org/2021.naacl-main.70.pdf)
-
-
-
-
-
-
+![Template Filling with Generative Transformers](figure/Template%20Filling%20with%20Generative%20Transformers.png)
 
 
 ### Structurelinearized Texts
+
+
+
+
 
 
 ### Non-autogressive
