@@ -43,19 +43,32 @@
 
 ### Structurelinearized Texts
 
+- [HySPA: Hybrid Span Generation for Scalable Text-to-Graph Extraction](https://aclanthology.org/2021.findings-acl.356.pdf)
+![HySPA: Hybrid Span Generation for Scalable Text-to-Graph Extraction](figure/HySPA%20Hybrid%20Span%20Generation%20for%20Scalable%20Text-to-Graph%20Extraction.png)
 
-
-
+- [Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction](https://aclanthology.org/2021.acl-long.217.pdf)
+![Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction](figure/Text2Event%20Controllable%20Sequence-to-Structure%20Generation%20for%20End-to-end%20Event%20Extraction.png)
 
 
 ### Non-autogressive
+
+
 
 
 ### Combinations
 
 
 
-### Ranking Inputoutput Pairs
+### Ranking Input-output Pairs
 
+- [Beyond [CLS] through Ranking by Generation](https://aclanthology.org/2020.emnlp-main.134.pdf)
+![Beyond [CLS] through Ranking by Generation](figure/Beyond%20%5BCLS%5D%20through%20Ranking%20by%20Generation.png)
 
+- [Document Ranking with a Pretrained Sequence-to-Sequence Model](https://aclanthology.org/2020.findings-emnlp.63.pdf)
+![Document Ranking with a Pretrained Sequence-to-Sequence Model](figure/Document%20Ranking%20with%20a%20Pretrained%20Sequence-to-Sequence%20Model.png)
 
+- [Autoregressive Entity Retrieval](https://openreview.net/pdf?id=5k8F6UU39V)
+![Autoregressive Entity Retrieval](figure/Autoregressive%20Entity%20Retrieval.png)
+
+- [Template-Based Named Entity Recognition Using BART](https://aclanthology.org/2021.findings-acl.161.pdf)
+![Template-Based Named Entity Recognition Using BART](figure/Template-Based%20Named%20Entity%20Recognition%20Using%20BART.png)
