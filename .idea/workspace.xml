@@ -46,6 +46,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\github\GenKBP_Papers" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652853329866</updated>
       <workItem from="1652853331661" duration="15993000" />
-      <workItem from="1652948877868" duration="2203000" />
+      <workItem from="1652948877868" duration="2430000" />
     </task>
     <servers />
   </component>
@@ -87,10 +92,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="555" y="233" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1652853607641">
+    <state x="555" y="233" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1652951210999">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
-    <state x="555" y="233" key="#com.intellij.fileTypes.FileTypeChooser/65.1080.1215.720/78.0.1458.864@78.0.1458.864" timestamp="1652853607641" />
+    <state x="555" y="233" key="#com.intellij.fileTypes.FileTypeChooser/65.1080.1215.720/78.0.1458.864@78.0.1458.864" timestamp="1652951210999" />
     <state x="308" y="77" key="SettingsEditor" timestamp="1652881720496">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
