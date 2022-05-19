@@ -11,8 +11,14 @@
 
 ### Copy Mechanism
 
+- [Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism](https://aclanthology.org/P18-1047.pdf)
+![Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism](figure/Extracting%20Relational%20Facts%20by%20an%20End-to-End%20Neural%20Model%20with%20Copy%20Mechanism.png)
 
+- [Learning the Extraction Order of Multiple Relational Facts in a Sentence with Reinforcement Learning](https://aclanthology.org/D19-1035.pdf)
+![Learning the Extraction Order of Multiple Relational Facts in a Sentence with Reinforcement Learning](figure/Learning%20the%20Extraction%20Order%20of%20Multiple%20Relational%20Facts%20in%20a%20Sentence%20with%20Reinforcement%20Learning.png)
 
+- [CopyMTL: Copy Mechanism for Joint Extraction of Entities and Relations with Multi-Task Learning](https://ojs.aaai.org/index.php/AAAI/article/view/6495)
+![CopyMTL: Copy Mechanism for Joint Extraction of Entities and Relations with Multi-Task Learning](figure/CopyMTL%20Copy%20Mechanism%20for%20Joint%20Extraction%20of%20Entities%20and%20Relations%20with%20Multi-Task%20Learning.png)
 
 
 
@@ -29,6 +35,12 @@
 
 - [Don’t Parse, Generate! A Sequence to Sequence Architecture for Task-Oriented Semantic Parsing](https://dl.acm.org/doi/pdf/10.1145/3366423.3380064)
 ![Don’t Parse, Generate! A Sequence to Sequence Architecture for Task-Oriented Semantic Parsing](figure/Don’t%20Parse,%20Generate!%20A%20Sequence%20to%20Sequence%20Architecture%20for%20Task-Oriented%20Semantic%20Parsing.png)
+
+- [Effective Modeling of Encoder-Decoder Architecture for Joint Entity and Relation Extraction](https://ojs.aaai.org/index.php/AAAI/article/view/6374)
+![Effective Modeling of Encoder-Decoder Architecture for Joint Entity and Relation Extraction](figure/Effective%20Modeling%20of%20Encoder-Decoder%20Architecture%20for%20Joint%20Entity%20and%20Relation%20Extraction1.png)
+
+![Effective Modeling of Encoder-Decoder Architecture for Joint Entity and Relation Extraction](figure/Effective%20Modeling%20of%20Encoder-Decoder%20Architecture%20for%20Joint%20Entity%20and%20Relation%20Extraction2.png)
+
 
 
 ### Generating Answers
@@ -55,8 +67,6 @@
 - [Contrastive Information Extraction With Generative Transformer](https://ieeexplore.ieee.org/document/9537684)
 - [Contrastive Triple Extraction with Generative Transformer](https://ojs.aaai.org/index.php/AAAI/article/view/17677)
 ![Contrastive Information Extraction With Generative Transformer](figure/Contrastive%20Information%20Extraction%20With.png)
-
-
 
 - [HySPA: Hybrid Span Generation for Scalable Text-to-Graph Extraction](https://aclanthology.org/2021.findings-acl.356.pdf)
 ![HySPA: Hybrid Span Generation for Scalable Text-to-Graph Extraction](figure/HySPA%20Hybrid%20Span%20Generation%20for%20Scalable%20Text-to-Graph%20Extraction.png)
