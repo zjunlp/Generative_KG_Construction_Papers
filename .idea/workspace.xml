@@ -34,7 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="3c18eaf1-4058-4e76-9b96-c513fb5bf2b6" />
+  <component name="JupyterTrust" id="e60955a5-a1cd-4104-9db7-a68e285297b0" />
   <component name="ProjectId" id="29KEMJZJXiPEyaoL5weYtXCYfIj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -54,7 +54,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652853329866</updated>
-      <workItem from="1652853331661" duration="14341000" />
+      <workItem from="1652853331661" duration="15993000" />
+      <workItem from="1652948877868" duration="2203000" />
     </task>
     <servers />
   </component>
@@ -83,6 +84,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="555" y="233" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1652853607641">
@@ -93,5 +95,9 @@
       <screen x="78" y="0" width="1458" height="864" />
     </state>
     <state x="308" y="77" key="SettingsEditor/65.1080.1215.720/78.0.1458.864@78.0.1458.864" timestamp="1652881720496" />
+    <state x="529" y="344" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1652949746006">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state x="529" y="344" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/65.1080.1215.720/78.0.1458.864@78.0.1458.864" timestamp="1652949746006" />
   </component>
 </project>
