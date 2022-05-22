@@ -69,13 +69,14 @@
 
 - [Unified Structure Generation for Universal Information Extraction](https://arxiv.org/pdf/2203.12277.pdf)
 
-
+- [Relation Extraction By End-to-end Language generation](https://aclanthology.org/2021.findings-emnlp.204.pdf)
 
 
 ### Non-autogressive
 
 - [Joint Entity and Relation Extraction with Set Prediction Networks](http://arxiv.org/abs/2011.01675)
 
+- [Minimize Exposure Bias of Seq2Seq Models in Joint Entity and Relation Extraction](https://aclanthology.org/2020.findings-emnlp.23.pdf)
 
 ### Combinations
 
