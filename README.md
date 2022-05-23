@@ -78,9 +78,6 @@
 
 - [Minimize Exposure Bias of Seq2Seq Models in Joint Entity and Relation Extraction](https://aclanthology.org/2020.findings-emnlp.23.pdf)
 
-### Combinations
-
-
 
 
 
@@ -94,4 +91,6 @@
 
 - [Template-Based Named Entity Recognition Using BART](https://aclanthology.org/2021.findings-acl.161.pdf)
 
+
+### Combinations
 
