@@ -50,11 +50,16 @@
 - [Event Extraction as Machine Reading Comprehension](https://aclanthology.org/2020.emnlp-main.128.pdf)
 ![Event Extraction as Machine Reading Comprehension](figure/Event%20Extraction%20as%20Machine%20Reading%20Comprehension.png)
 
+- [Event Extraction as Multi-turn Question Answering](https://aclanthology.org/2020.findings-emnlp.73.pdf)
+![Event Extraction as Multi-turn Question Answering](figure/Event%20Extraction%20as%20Multi-turn%20Question%20Answering.png)
+
+
 - [Can Generative Pre-trained Language Models Serve As Knowledge Bases for Closed-book QA?](https://aclanthology.org/2021.acl-long.251.pdf)
 ![Can Generative Pre-trained Language Models Serve As Knowledge Bases for Closed-book QA?](figure/Can%20Generative%20Pre-trained%20Language%20Models%20Serve%20As%20Knowledge%20Bases%20for%20Closed-book%20QA.png)
 
 - [Answer Generation for Retrieval-based Question Answering Systems](https://aclanthology.org/2021.findings-acl.374.pdf)
 ![Answer Generation for Retrieval-based Question Answering Systems](figure/Answer%20Generation%20for%20Retrieval-based%20Question%20Answering%20Systems.png)
+
 
 
 ### Filling Templates
