@@ -73,6 +73,10 @@
 
 - [Relation Extraction By End-to-end Language generation](https://aclanthology.org/2021.findings-emnlp.204.pdf)
 
+- [From Discrimination to Generation: Knowledge Graph Completion with Generative Transformer](https://arxiv.org/pdf/2202.02113.pdf)
+
+
+
 
 ### Non-autogressive
 

@@ -101,6 +101,11 @@
 - [Relation Extraction By End-to-end Language generation](https://aclanthology.org/2021.findings-emnlp.204.pdf)
 ![Relation Extraction By End-to-end Language generation](figure/Relation%20Extraction%20By%20End-to-end%20Language%20generation.png)
 
+
+- [From Discrimination to Generation: Knowledge Graph Completion with Generative Transformer](https://arxiv.org/pdf/2202.02113.pdf)
+![From Discrimination to Generation: Knowledge Graph Completion with Generative Transformer](figure/From%20Discrimination%20to%20Generation%20Knowledge%20Graph%20Completion%20with%20Generative%20Transformer.png)
+
+
 ### Non-autogressive
 
 - [Joint Entity and Relation Extraction with Set Prediction Networks](http://arxiv.org/abs/2011.01675)
