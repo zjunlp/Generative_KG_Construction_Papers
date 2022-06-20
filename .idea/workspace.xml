@@ -34,7 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="3c9b0beb-46d8-4773-a646-1668d0922801" />
+  <component name="JupyterTrust" id="21e401ca-c7bd-4839-929d-9a9c97631f97" />
   <component name="ProjectId" id="29KEMJZJXiPEyaoL5weYtXCYfIj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,7 +43,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../数据集/nyt10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -65,7 +65,9 @@
       <workItem from="1653236047711" duration="1030000" />
       <workItem from="1653282209324" duration="23000" />
       <workItem from="1653381700824" duration="3103000" />
-      <workItem from="1653482700939" duration="801000" />
+      <workItem from="1653482700939" duration="1429000" />
+      <workItem from="1655657448679" duration="3343000" />
+      <workItem from="1655705774605" duration="2217000" />
     </task>
     <servers />
   </component>
