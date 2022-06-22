@@ -1,4 +1,4 @@
-# GenKBP_Papers
+# GenKGC_Papers
 
 
 ### Label-augmented Text
