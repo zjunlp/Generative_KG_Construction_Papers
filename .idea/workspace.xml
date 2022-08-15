@@ -27,41 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1611cdba-d77e-4eef-ace4-00ba0f0afb7e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Paper_Picture.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/A Unified Generative Framework for Aspect-based Sentiment Analysis.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/A Unified Generative Framework for Aspect-based Sentiment Analysis2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/A Unified Generative Framework for Various NER Subtasks.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Answer Generation for Retrieval-based Question Answering Systems.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Augmented Natural Language for Generative Sequence Labeling.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Autoregressive Entity Retrieval.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Beyond [CLS] through Ranking by Generation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Can Generative Pre-trained Language Models Serve As Knowledge Bases for Closed-book QA.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Contrastive Information Extraction With.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/CopyMTL Copy Mechanism for Joint Extraction of Entities and Relations with Multi-Task Learning.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Document Ranking with a Pretrained Sequence-to-Sequence Model.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Document-Level Event Argument Extraction by Conditional Generation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Don’t Parse, Generate! A Sequence to Sequence Architecture for Task-Oriented Semantic Parsing.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Effective Modeling of Encoder-Decoder Architecture for Joint Entity and Relation Extraction1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Effective Modeling of Encoder-Decoder Architecture for Joint Entity and Relation Extraction2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Event Extraction as Machine Reading Comprehension.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Event Extraction as Multi-turn Question Answering.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Event Extraction by Answering (Almost) Natural Questions.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Exploring Sequence-to-Sequence Learning in Aspect Term Extraction.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/From Discrimination to Generation Knowledge Graph Completion with Generative Transformer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/HySPA Hybrid Span Generation for Scalable Text-to-Graph Extraction.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Intent Classification and Slot Filling for Privacy Policies.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Joint Entity and Relation Extraction with Set Prediction Networks.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Learning the Extraction Order of Multiple Relational Facts in a Sentence with Reinforcement Learning.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Minimize Exposure Bias of Seq2Seq Models in Joint Entity and Relation Extraction.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Neural Architectures for Nested NER through Linearization.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Relation Extraction By End-to-end Language generation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Structured Prediction as Translation between Augmented Natural Languages.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Template Filling with Generative Transformers.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Template-Based Named Entity Recognition Using BART.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Text2Event Controllable Sequence-to-Structure Generation for End-to-end Event Extraction.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figure/Unified Structure Generation for Universal Information Extraction.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +55,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="C:\Users\Administrator\Desktop\github\GenKBP_Papers" />
     </key>
   </component>
@@ -109,7 +76,7 @@
       <workItem from="1653482700939" duration="1429000" />
       <workItem from="1655657448679" duration="3343000" />
       <workItem from="1655705774605" duration="2217000" />
-      <workItem from="1660540116918" duration="7100000" />
+      <workItem from="1660540116918" duration="7854000" />
     </task>
     <servers />
   </component>
