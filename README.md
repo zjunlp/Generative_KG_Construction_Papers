@@ -11,10 +11,11 @@
 We have released a new survey paper based on this repository, with a perspective of existing Generative Knowledge Graph Construction! We are looking forward to any comments or discussions on this topic :)** 
 
 
-|    Survey Paper    |  Publish   |
-|  :---------  |:----------:|
-| :triangular_flag_on_post: [**A Survey on Knowledge Graphs: Representation, Acquisition, and Applications**](https://ieeexplore.ieee.org/document/9416312) | TNNLS 2022 |
-| [Multi-Modal Knowledge Graph Construction and Application: A Survey](https://arxiv.org/abs/2202.05786) | Arxiv 2022 |
+| Survey Paper                                                                                                                       |  Publish   |
+|:-----------------------------------------------------------------------------------------------------------------------------------|:----------:|
+| :triangular_flag_on_post: [**Generative Knowledge Graph Construction: A Review**]()                                                | EMNLP 2022 |
+| [A Survey on Knowledge Graphs: Representation, Acquisition, and Applications](https://ieeexplore.ieee.org/document/9416312)        | TNNLS 2022 |
+| [Multi-Modal Knowledge Graph Construction and Application: A Survey](https://arxiv.org/abs/2202.05786)                             | Arxiv 2022 |
 | [Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey](https://arxiv.org/abs/2111.01243) | Arxiv 2021 |
 
 
