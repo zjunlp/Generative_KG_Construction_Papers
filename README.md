@@ -8,7 +8,7 @@
 
 ### 
 **[:bell: News! :bell: ]
-We have released a new survey paper based on this repository, with a perspective of existing Generative Knowledge Graph Construction! We are looking forward to any comments or discussions on this topic :)** 
+We have released a new survey paper:"[Generative Knowledge Graph Construction: A Review](https://arxiv.org/pdf/2210.12714.pdf)" based on this repository, with a perspective of existing Generative Knowledge Graph Construction! We are looking forward to any comments or discussions on this topic :)** 
 
 ## 🕵️ Introduction
 Generative Knowledge Graph Construction (KGC) refers to those methods that leverage the sequence-to-sequence framework for building knowledge graphs, which is flexible and can be adapted to widespread tasks.
@@ -20,7 +20,6 @@ Based on the review, we suggest promising research directions for the future. Ou
 
 ## *👋 News!*
 - Congratulations! Our work has been accepted by the EMNLP2022 main conference.
-- We will release our paper on arivx soon!
 
 ## 🏳‍🌈 A Taxonomy of Current Methods
 
