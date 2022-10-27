@@ -308,12 +308,12 @@ The output sequences are sentences where the blank placeholders are replaced by 
 
 ## 🏆 A List of Survey Papers
 
-| Survey Paper                                                                                                                       |  Publish   |
-|:-----------------------------------------------------------------------------------------------------------------------------------|:----------:|
-| :triangular_flag_on_post: [**Generative Knowledge Graph Construction: A Review**]()                                                | EMNLP 2022 |
-| [A Survey on Knowledge Graphs: Representation, Acquisition, and Applications](https://ieeexplore.ieee.org/document/9416312)        | TNNLS 2022 |
-| [Multi-Modal Knowledge Graph Construction and Application: A Survey](https://arxiv.org/abs/2202.05786)                             | Arxiv 2022 |
-| [Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey](https://arxiv.org/abs/2111.01243) | Arxiv 2021 |
+| Survey Paper                                                                                                                                  |  Publish   |
+|:----------------------------------------------------------------------------------------------------------------------------------------------|:----------:|
+| :triangular_flag_on_post: [**Generative Knowledge Graph Construction: A Review**](https://arxiv.org/pdf/2210.12714.pdf)                       | EMNLP 2022 |
+| [A Survey on Knowledge Graphs: Representation, Acquisition, and Applications](https://ieeexplore.ieee.org/document/9416312)                   | TNNLS 2022 |
+| [Multi-Modal Knowledge Graph Construction and Application: A Survey](https://arxiv.org/abs/2202.05786)                                        | Arxiv 2022 |
+| [Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey](https://arxiv.org/abs/2111.01243)            | Arxiv 2021 |
 
 ## 🕚 A Timeline of generative KGC. 
 The time for each paper is based on its first arXiv version (if exists) or estimated submission time. 
