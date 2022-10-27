@@ -17,12 +17,12 @@ We present the advantages and weaknesses of each paradigm in terms of different 
 Based on the review, we suggest promising research directions for the future. Our contributions are threefold: (1) We present a detailed, complete taxonomy for the generative KGC methods; 
 (2) We provide a theoretical and empirical analysis of the generative KGC methods; 
 (3) We propose several research directions that can be developed in the future.
+For more resources about knowledge graph construction, please check our paper tookit [DeepKE](https://github.com/zjunlp/DeepKE) and [PromptKG](https://github.com/zjunlp/PromptKG).
 
 ## *👋 News!*
-- We conducted the development of knowledge extraction toolkits such as [DEEPKE](https://github.com/zjunlp/DeepKE) and [PromptKG](https://github.com/zjunlp/PromptKG).
-- Due to the rise of generative extraction methods in the NLP community，we summarize recent progress in generative KGC.
 - Congratulations! Our work has been accepted by the EMNLP2022 main conference.
-- We release our paper on [arivx](https://arxiv.org/pdf/2210.12714.pdf).
+- Due to the rise of generative extraction methods in the NLP community，we summarize recent progress in generative KGC and release our paper  on [arivx](https://arxiv.org/pdf/2210.12714.pdf).
+
 
 ### 🚩Citation 
 If you find this survey useful for your research, please consider citing
