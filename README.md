@@ -22,7 +22,7 @@ Based on the review, we suggest promising research directions for the future. Ou
 - We conducted the development of knowledge extraction toolkits such as [DEEPKE](https://github.com/zjunlp/DeepKE) and [PromptKG](https://github.com/zjunlp/PromptKG).
 - Due to the rise of generative extraction methods in the NLP community，we summarize recent progress in generative KGC.
 - Congratulations! Our work has been accepted by the EMNLP2022 main conference.
-- We release our paper on arivx.
+- We release our paper on [arivx](https://arxiv.org/pdf/2210.12714.pdf).
 
 ### 🚩Citation 
 If you find this survey useful for your research, please consider citing
@@ -43,9 +43,9 @@ Knowledge Graph Construction mainly aims to extract structural information from 
 such as Named Entity Recognition (NER), Relation Extraction (RE), Event Extraction (EE), Entity Linking (EL), and Knowledge Graph Completion (KGC).
 
 Generally, KGC can be regarded as structure prediction tasks, where a model is trained to approximate a target function $F(x) \rightarrow y$, where $x \in \mathcal{X}$ denotes the input data and $y \in \mathcal{Y}$ denotes the output structure sequence. 
-For instance, given a sentence, *"Steve Jobs and Steve Wozniak co-founded Apple in 1977.}"*: 
+For instance, given a sentence, *"Steve Jobs and Steve Wozniak co-founded Apple in 1977."*: 
 
-- Named Entity Recognition aims to identify the types of entities, \eg, *‘Steve Job'*, *‘Steve Wozniak'* $\Rightarrow$ *PERSON*, *‘Apple'* $\Rightarrow$ *ORG*; 
+- Named Entity Recognition aims to identify the types of entities, i.e., *‘Steve Job'*, *‘Steve Wozniak'* $\Rightarrow$ *PERSON*, *‘Apple'* $\Rightarrow$ *ORG*; 
 
 - Relation Extraction aims to identify the relationship of the given entity pair $\langle$*Steve Job*, *Apple*$\rangle$ as *founder*;
 
