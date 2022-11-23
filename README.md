@@ -27,13 +27,22 @@ For more resources about knowledge graph construction, please check our tookit [
 ### 🚩Citation 
 If you find this survey useful for your research, please consider citing
 ```
-@misc{https://doi.org/10.48550/arxiv.2210.12714,
-  doi = {10.48550/ARXIV.2210.12714},
-  url = {https://arxiv.org/abs/2210.12714},
-  author = {Ye, Hongbin and Zhang, Ningyu and Chen, Hui and Chen, Huajun},
-  title = {Generative Knowledge Graph Construction: A Review},
-  publisher = {arXiv},
-  year = {2022},
+@article{DBLP:journals/corr/abs-2210-12714,
+  author    = {Hongbin Ye and
+               Ningyu Zhang and
+               Hui Chen and
+               Huajun Chen},
+  title     = {Generative Knowledge Graph Construction: {A} Review},
+  journal   = {CoRR},
+  volume    = {abs/2210.12714},
+  year      = {2022},
+  url       = {https://doi.org/10.48550/arXiv.2210.12714},
+  doi       = {10.48550/arXiv.2210.12714},
+  eprinttype = {arXiv},
+  eprint    = {2210.12714},
+  timestamp = {Fri, 28 Oct 2022 14:21:57 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2210-12714.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
