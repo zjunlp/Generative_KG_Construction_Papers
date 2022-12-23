@@ -1,11 +1,20 @@
 <p align="center">
      <img src="./logo.jpg" width="500"/>
-<p>
+      <p>
 <!-- 
 <h1 align="center">
     <p>Generative Knowledge Graph Construction: A Review</p>
 </h1> -->
 
+<p align="center">
+
+  [![Awesome](https://awesome.re/badge.svg)](https://github.com/zjunlp/Generative_KG_Construction_Papers) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+  ![](https://img.shields.io/github/last-commit/zjunlp/Generative_KG_Construction_Papers?color=green) 
+ ![](https://img.shields.io/badge/PRs-Welcome-red) 
+ 
+ <p>
+ 
 ### 
 **[:bell: News! :bell: ]
 We have released a new survey paper:"[Generative Knowledge Graph Construction: A Review](https://arxiv.org/pdf/2210.12714.pdf)" based on this repository, with a perspective of existing Generative Knowledge Graph Construction! We are looking forward to any comments or discussions on this topic :)** 
