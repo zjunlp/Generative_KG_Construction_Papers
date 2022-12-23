@@ -20,6 +20,7 @@ Based on the review, we suggest promising research directions for the future. Ou
 For more resources about knowledge graph construction, please check our tookit [DeepKE](https://github.com/zjunlp/DeepKE).
 
 ## *👋 News!*
+- We release a [survey](https://arxiv.org/abs/2212.09597) and [paper-list](https://github.com/zjunlp/Prompt4ReasoningPapers) for reasoning with language model prompting.
 - We release a prompt&KG paper-list at [PromptKG](https://github.com/zjunlp/PromptKG).
 - Congratulations! Our work has been accepted by the EMNLP2022 main conference.
 - Due to the rise of generative extraction methods in the NLP community，we summarize recent progress in generative KGC and release our paper  on [arivx](https://arxiv.org/pdf/2210.12714.pdf).
