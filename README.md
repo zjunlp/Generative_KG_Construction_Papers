@@ -156,6 +156,11 @@ As shown in figure, the output is a linearization of the extracted knowledge str
   - **"Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction"**, ACL 2021
     - Yaojie Lu, Hongyu Lin, Jin Xu, Xianpei Han, Jialong Tang, Annan Li, Le Sun, Meng Liao, Shaoyi Chen
     - [[Paper]](https://aclanthology.org/2021.acl-long.217/)
+    
+    
+  - **"GenIE: Generative Information Extraction"**, NAACL 2022
+    - Martin Josifoski, Nicola De Cao, Maxime Peyrard, Fabio Petroni, Robert West
+    - [[Paper]](https://aclanthology.org/2022.naacl-main.342.pdf)
 
   
 - ***Triplet linearization***
