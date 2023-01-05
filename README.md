@@ -164,6 +164,9 @@ As shown in figure, the output is a linearization of the extracted knowledge str
     - Chenguang Wang, Xiao Liu, Zui Chen, Haoyun Hong, Jie Tang, Dawn Song
     - [[Paper]](https://aclanthology.org/2022.findings-acl.67/)
 
+  - **"Text-to-Text Extraction and Verbalization of Biomedical Event Graphs"**, COLING 2022
+    - Giacomo Frisoni, Gianluca Moro, Lorenzo Balzani
+    - [[Paper]](https://aclanthology.org/2022.coling-1.238/)
 
 - ***Reformulating triple prediction***
 
@@ -326,6 +329,7 @@ The time for each paper is based on its first arXiv version (if exists) or estim
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------:|:-----------:|:----------------------------------------------------------------------:|
 | [Code4Struct: Code Generation for Few-Shot Structured Prediction from Natural Language](https://arxiv.org/abs/2210.12810)                                                                                                      | Structure-linearized | arXiv 2022  |          [CODE4STRUCT](https://github.com/xingyaoww/code4struct)           |
 | [Autoregressive Structured Prediction with Language Models](https://arxiv.org/abs/2210.14698)                                                                                                      | Label-augmented | EMNLP 2022  |          [ASP](https://github.com/lyutyuh/ASP)           |
+| [Text-to-Text Extraction and Verbalization of Biomedical Event Graphs](https://aclanthology.org/2022.coling-1.238/)                                                            | Structure-linearized | COLING 2022 |          [BioT2E](https://github.com/disi-unibo-nlp/bio-ee-egv)           |
 | [Knowledge Is Flat: A Seq2Seq Generative Framework for Various Knowledge Graph Completion](https://aclanthology.org/2022.coling-1.352/)                                                            | Structure-linearized | COLING 2022 |          [KG-S2S](https://github.com/chenchens190009/KG-S2S)           |
 | [A sequence-to-sequence approach for document-level relation extraction](https://aclanthology.org/2022.bionlp-1.2/)                                                                                | Copy-based | BioNLP 2022 |            [Seq2rel](https://github.com/johngiorgi/seq2rel)            |
 | [Unified Structure Generation for Universal Information Extraction](https://aclanthology.org/2022.acl-long.395/)                                                                                   | Structure-linearized |  ACL 2022   |               [UIE](https://github.com/universal-ie/UIE)               |
