@@ -1,11 +1,20 @@
 <p align="center">
      <img src="./logo.jpg" width="500"/>
-<p>
+      <p>
 <!-- 
 <h1 align="center">
     <p>Generative Knowledge Graph Construction: A Review</p>
 </h1> -->
 
+<div align="center">
+     
+  [![Awesome](https://awesome.re/badge.svg)](https://github.com/zjunlp/Generative_KG_Construction_Papers) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+  ![](https://img.shields.io/github/last-commit/zjunlp/Generative_KG_Construction_Papers?color=green) 
+ ![](https://img.shields.io/badge/PRs-Welcome-red) 
+ 
+</div>
+ 
 ### 
 **[:bell: News! :bell: ]
 We have released a new survey paper:"[Generative Knowledge Graph Construction: A Review](https://arxiv.org/pdf/2210.12714.pdf)" based on this repository, with a perspective of existing Generative Knowledge Graph Construction! We are looking forward to any comments or discussions on this topic :)** 
@@ -17,9 +26,11 @@ We present the advantages and weaknesses of each paradigm in terms of different 
 Based on the review, we suggest promising research directions for the future. Our contributions are threefold: (1) We present a detailed, complete taxonomy for the generative KGC methods; 
 (2) We provide a theoretical and empirical analysis of the generative KGC methods; 
 (3) We propose several research directions that can be developed in the future.
-For more resources about knowledge graph construction, please check our tookit [DeepKE](https://github.com/zjunlp/DeepKE) and [PromptKG](https://github.com/zjunlp/PromptKG).
+For more resources about knowledge graph construction, please check our tookit [DeepKE](https://github.com/zjunlp/DeepKE).
 
 ## *👋 News!*
+- We release a [survey](https://arxiv.org/abs/2212.09597) and [paper-list](https://github.com/zjunlp/Prompt4ReasoningPapers) for **reasoning with language model prompting**.
+- We release a prompt&KG paper-list at [PromptKG](https://github.com/zjunlp/PromptKG).
 - Congratulations! Our work has been accepted by the EMNLP2022 main conference.
 - Due to the rise of generative extraction methods in the NLP community，we summarize recent progress in generative KGC and release our paper  on [arivx](https://arxiv.org/pdf/2210.12714.pdf).
 
@@ -27,13 +38,22 @@ For more resources about knowledge graph construction, please check our tookit [
 ### 🚩Citation 
 If you find this survey useful for your research, please consider citing
 ```
-@misc{https://doi.org/10.48550/arxiv.2210.12714,
-  doi = {10.48550/ARXIV.2210.12714},
-  url = {https://arxiv.org/abs/2210.12714},
-  author = {Ye, Hongbin and Zhang, Ningyu and Chen, Hui and Chen, Huajun},
-  title = {Generative Knowledge Graph Construction: A Review},
-  publisher = {arXiv},
-  year = {2022},
+@article{DBLP:journals/corr/abs-2210-12714,
+  author    = {Hongbin Ye and
+               Ningyu Zhang and
+               Hui Chen and
+               Huajun Chen},
+  title     = {Generative Knowledge Graph Construction: {A} Review},
+  journal   = {CoRR},
+  volume    = {abs/2210.12714},
+  year      = {2022},
+  url       = {https://doi.org/10.48550/arXiv.2210.12714},
+  doi       = {10.48550/arXiv.2210.12714},
+  eprinttype = {arXiv},
+  eprint    = {2210.12714},
+  timestamp = {Fri, 28 Oct 2022 14:21:57 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2210-12714.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
@@ -136,6 +156,11 @@ As shown in figure, the output is a linearization of the extracted knowledge str
   - **"Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction"**, ACL 2021
     - Yaojie Lu, Hongyu Lin, Jin Xu, Xianpei Han, Jialong Tang, Annan Li, Le Sun, Meng Liao, Shaoyi Chen
     - [[Paper]](https://aclanthology.org/2021.acl-long.217/)
+    
+    
+  - **"GenIE: Generative Information Extraction"**, NAACL 2022
+    - Martin Josifoski, Nicola De Cao, Maxime Peyrard, Fabio Petroni, Robert West
+    - [[Paper]](https://aclanthology.org/2022.naacl-main.342.pdf)
 
   
 - ***Triplet linearization***
