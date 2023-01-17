@@ -142,7 +142,7 @@ As shown in figure, the output is a linearization of the extracted knowledge str
     - Hongbin Ye, Ningyu Zhang, Shumin Deng, Mosha Chen, Chuanqi Tan, Fei Huang, Huajun Chen
     - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17677/)
   
-  - **"Contrastive Triple Extraction with Generative Transformer"**, IEEE ACM Trans. Audio Speech Lang. Process
+  - **"Contrastive Information Extraction with Generative Transformer"**, IEEE ACM Trans. Audio Speech Lang. Process
     - Ningyu Zhang, Hongbin Ye, Shumin Deng, Chuanqi Tan, Mosha Chen, Songfang Huang, Fei Huang, Huajun Chen
     - [[Paper]](https://ieeexplore.ieee.org/document/9537684)
 
