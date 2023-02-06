@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16338359-5063-4a6a-9257-7b8e6356e990" name="Changes" comment="" />
+    <list default="true" id="16338359-5063-4a6a-9257-7b8e6356e990" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +52,7 @@
       <workItem from="1668813317904" duration="105000" />
       <workItem from="1672904755865" duration="369000" />
       <workItem from="1673077679357" duration="289000" />
+      <workItem from="1675669580169" duration="140000" />
     </task>
     <servers />
   </component>

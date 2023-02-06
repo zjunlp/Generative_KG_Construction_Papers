@@ -33,7 +33,7 @@ For more resources about knowledge graph construction, please check our tookit [
 - We release a prompt&KG paper-list at [PromptKG](https://github.com/zjunlp/PromptKG).
 - Congratulations! Our work has been accepted by the EMNLP2022 main conference.
 - Due to the rise of generative extraction methods in the NLP community，we summarize recent progress in generative KGC and release our paper  on [arivx](https://arxiv.org/pdf/2210.12714.pdf).
-
+- We release Eng/Cn slides at [_Silde file_](https://github.com/zjunlp/Generative_KG_Construction_Papers/slide)
 
 ### 🚩Citation 
 If you find this survey useful for your research, please consider citing
