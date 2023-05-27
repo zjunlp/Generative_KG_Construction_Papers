@@ -29,6 +29,7 @@ Based on the review, we suggest promising research directions for the future. Ou
 For more resources about knowledge graph construction, please check our tookit [DeepKE](https://github.com/zjunlp/DeepKE).
 
 ## *👋 News!*
+- We release [CaMA](https://github.com/zjunlp/CaMA), a Chinese-English bilingual LLaMA model which is desgined for **knowledge extraction and reasoning**!
 - We release a [survey](https://arxiv.org/abs/2212.09597) and [paper-list](https://github.com/zjunlp/Prompt4ReasoningPapers) for **reasoning with language model prompting**.
 - We release a prompt&KG paper-list at [PromptKG](https://github.com/zjunlp/PromptKG).
 - Congratulations! Our work has been accepted by the EMNLP2022 main conference.
