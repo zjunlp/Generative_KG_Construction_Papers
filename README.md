@@ -29,7 +29,7 @@ Based on the review, we suggest promising research directions for the future. Ou
 For more resources about knowledge graph construction, please check our tookit [DeepKE](https://github.com/zjunlp/DeepKE).
 
 ## *👋 News!*
-- We release [DeepKE-LLM](https://github.com/zjunlp/DeepKE/tree/main/example/llm) to support **knowledge extraction** with [KnowLM](https://github.com/zjunlp/KnowLM), [ChatGLM](https://github.com/THUDM/ChatGLM-6B), [MOSS](https://github.com/OpenLMLab/MOSS), [CPM-Bee](https://github.com/OpenBMB/CPM-Bee), LLaMA-series, GPT-series etc.
+- We release [DeepKE-LLM](https://github.com/zjunlp/DeepKE/tree/main/example/llm) to support **knowledge extraction** with [KnowLM](https://github.com/zjunlp/KnowLM), [ChatGLM](https://github.com/THUDM/ChatGLM-6B), LLaMA-series, GPT-series etc.
 - We release a [survey](https://arxiv.org/abs/2212.09597) and [paper-list](https://github.com/zjunlp/Prompt4ReasoningPapers) for **reasoning with language model prompting**.
 - We release a prompt&KG paper-list at [PromptKG](https://github.com/zjunlp/PromptKG).
 - Congratulations! Our work has been accepted by the EMNLP2022 main conference.
